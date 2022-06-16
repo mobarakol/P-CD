@@ -1,0 +1,402 @@
+[
+    [
+        "benign/benign (256).png",
+        "benign/benign (256)_mask.png"
+    ],
+    [
+        "benign/benign (420).png",
+        "benign/benign (420)_mask.png"
+    ],
+    [
+        "malignant/malignant (192).png",
+        "malignant/malignant (192)_mask.png"
+    ],
+    [
+        "malignant/malignant (69).png",
+        "malignant/malignant (69)_mask.png"
+    ],
+    [
+        "benign/benign (52).png",
+        "benign/benign (52)_mask.png"
+    ],
+    [
+        "benign/benign (366).png",
+        "benign/benign (366)_mask.png"
+    ],
+    [
+        "benign/benign (322).png",
+        "benign/benign (322)_mask.png"
+    ],
+    [
+        "malignant/malignant (76).png",
+        "malignant/malignant (76)_mask.png"
+    ],
+    [
+        "benign/benign (266).png",
+        "benign/benign (266)_mask.png"
+    ],
+    [
+        "benign/benign (190).png",
+        "benign/benign (190)_mask.png"
+    ],
+    [
+        "normal/normal (76).png",
+        "normal/normal (76)_mask.png"
+    ],
+    [
+        "normal/normal (68).png",
+        "normal/normal (68)_mask.png"
+    ],
+    [
+        "benign/benign (249).png",
+        "benign/benign (249)_mask.png"
+    ],
+    [
+        "malignant/malignant (33).png",
+        "malignant/malignant (33)_mask.png"
+    ],
+    [
+        "benign/benign (376).png",
+        "benign/benign (376)_mask.png"
+    ],
+    [
+        "malignant/malignant (197).png",
+        "malignant/malignant (197)_mask.png"
+    ],
+    [
+        "benign/benign (57).png",
+        "benign/benign (57)_mask.png"
+    ],
+    [
+        "benign/benign (291).png",
+        "benign/benign (291)_mask.png"
+    ],
+    [
+        "normal/normal (103).png",
+        "normal/normal (103)_mask.png"
+    ],
+    [
+        "benign/benign (23).png",
+        "benign/benign (23)_mask.png"
+    ],
+    [
+        "benign/benign (276).png",
+        "benign/benign (276)_mask.png"
+    ],
+    [
+        "benign/benign (208).png",
+        "benign/benign (208)_mask.png"
+    ],
+    [
+        "normal/normal (56).png",
+        "normal/normal (56)_mask.png"
+    ],
+    [
+        "benign/benign (152).png",
+        "benign/benign (152)_mask.png"
+    ],
+    [
+        "benign/benign (39).png",
+        "benign/benign (39)_mask.png"
+    ],
+    [
+        "benign/benign (260).png",
+        "benign/benign (260)_mask.png"
+    ],
+    [
+        "benign/benign (170).png",
+        "benign/benign (170)_mask.png"
+    ],
+    [
+        "malignant/malignant (77).png",
+        "malignant/malignant (77)_mask.png"
+    ],
+    [
+        "malignant/malignant (29).png",
+        "malignant/malignant (29)_mask.png"
+    ],
+    [
+        "malignant/malignant (72).png",
+        "malignant/malignant (72)_mask.png"
+    ],
+    [
+        "benign/benign (75).png",
+        "benign/benign (75)_mask.png"
+    ],
+    [
+        "benign/benign (191).png",
+        "benign/benign (191)_mask.png"
+    ],
+    [
+        "benign/benign (164).png",
+        "benign/benign (164)_mask.png"
+    ],
+    [
+        "benign/benign (87).png",
+        "benign/benign (87)_mask.png"
+    ],
+    [
+        "benign/benign (221).png",
+        "benign/benign (221)_mask.png"
+    ],
+    [
+        "benign/benign (371).png",
+        "benign/benign (371)_mask.png"
+    ],
+    [
+        "benign/benign (14).png",
+        "benign/benign (14)_mask.png"
+    ],
+    [
+        "benign/benign (399).png",
+        "benign/benign (399)_mask.png"
+    ],
+    [
+        "benign/benign (325).png",
+        "benign/benign (325)_mask.png"
+    ],
+    [
+        "normal/normal (59).png",
+        "normal/normal (59)_mask.png"
+    ],
+    [
+        "malignant/malignant (1).png",
+        "malignant/malignant (1)_mask.png"
+    ],
+    [
+        "benign/benign (13).png",
+        "benign/benign (13)_mask.png"
+    ],
+    [
+        "malignant/malignant (66).png",
+        "malignant/malignant (66)_mask.png"
+    ],
+    [
+        "benign/benign (437).png",
+        "benign/benign (437)_mask.png"
+    ],
+    [
+        "benign/benign (398).png",
+        "benign/benign (398)_mask.png"
+    ],
+    [
+        "benign/benign (349).png",
+        "benign/benign (349)_mask.png"
+    ],
+    [
+        "malignant/malignant (135).png",
+        "malignant/malignant (135)_mask.png"
+    ],
+    [
+        "malignant/malignant (210).png",
+        "malignant/malignant (210)_mask.png"
+    ],
+    [
+        "benign/benign (150).png",
+        "benign/benign (150)_mask.png"
+    ],
+    [
+        "normal/normal (57).png",
+        "normal/normal (57)_mask.png"
+    ],
+    [
+        "benign/benign (212).png",
+        "benign/benign (212)_mask.png"
+    ],
+    [
+        "benign/benign (105).png",
+        "benign/benign (105)_mask.png"
+    ],
+    [
+        "benign/benign (267).png",
+        "benign/benign (267)_mask.png"
+    ],
+    [
+        "malignant/malignant (130).png",
+        "malignant/malignant (130)_mask.png"
+    ],
+    [
+        "malignant/malignant (167).png",
+        "malignant/malignant (167)_mask.png"
+    ],
+    [
+        "normal/normal (128).png",
+        "normal/normal (128)_mask.png"
+    ],
+    [
+        "benign/benign (241).png",
+        "benign/benign (241)_mask.png"
+    ],
+    [
+        "benign/benign (326).png",
+        "benign/benign (326)_mask.png"
+    ],
+    [
+        "normal/normal (37).png",
+        "normal/normal (37)_mask.png"
+    ],
+    [
+        "malignant/malignant (21).png",
+        "malignant/malignant (21)_mask.png"
+    ],
+    [
+        "malignant/malignant (193).png",
+        "malignant/malignant (193)_mask.png"
+    ],
+    [
+        "malignant/malignant (93).png",
+        "malignant/malignant (93)_mask.png"
+    ],
+    [
+        "normal/normal (24).png",
+        "normal/normal (24)_mask.png"
+    ],
+    [
+        "benign/benign (35).png",
+        "benign/benign (35)_mask.png"
+    ],
+    [
+        "benign/benign (342).png",
+        "benign/benign (342)_mask.png"
+    ],
+    [
+        "benign/benign (97).png",
+        "benign/benign (97)_mask.png"
+    ],
+    [
+        "benign/benign (25).png",
+        "benign/benign (25)_mask.png"
+    ],
+    [
+        "normal/normal (113).png",
+        "normal/normal (113)_mask.png"
+    ],
+    [
+        "benign/benign (272).png",
+        "benign/benign (272)_mask.png"
+    ],
+    [
+        "benign/benign (185).png",
+        "benign/benign (185)_mask.png"
+    ],
+    [
+        "malignant/malignant (110).png",
+        "malignant/malignant (110)_mask.png"
+    ],
+    [
+        "benign/benign (88).png",
+        "benign/benign (88)_mask.png"
+    ],
+    [
+        "normal/normal (43).png",
+        "normal/normal (43)_mask.png"
+    ],
+    [
+        "benign/benign (192).png",
+        "benign/benign (192)_mask.png"
+    ],
+    [
+        "benign/benign (157).png",
+        "benign/benign (157)_mask.png"
+    ],
+    [
+        "malignant/malignant (17).png",
+        "malignant/malignant (17)_mask.png"
+    ],
+    [
+        "normal/normal (15).png",
+        "normal/normal (15)_mask.png"
+    ],
+    [
+        "normal/normal (79).png",
+        "normal/normal (79)_mask.png"
+    ],
+    [
+        "benign/benign (270).png",
+        "benign/benign (270)_mask.png"
+    ],
+    [
+        "benign/benign (162).png",
+        "benign/benign (162)_mask.png"
+    ],
+    [
+        "malignant/malignant (209).png",
+        "malignant/malignant (209)_mask.png"
+    ],
+    [
+        "malignant/malignant (156).png",
+        "malignant/malignant (156)_mask.png"
+    ],
+    [
+        "normal/normal (18).png",
+        "normal/normal (18)_mask.png"
+    ],
+    [
+        "benign/benign (378).png",
+        "benign/benign (378)_mask.png"
+    ],
+    [
+        "benign/benign (64).png",
+        "benign/benign (64)_mask.png"
+    ],
+    [
+        "malignant/malignant (73).png",
+        "malignant/malignant (73)_mask.png"
+    ],
+    [
+        "malignant/malignant (120).png",
+        "malignant/malignant (120)_mask.png"
+    ],
+    [
+        "benign/benign (165).png",
+        "benign/benign (165)_mask.png"
+    ],
+    [
+        "malignant/malignant (7).png",
+        "malignant/malignant (7)_mask.png"
+    ],
+    [
+        "normal/normal (97).png",
+        "normal/normal (97)_mask.png"
+    ],
+    [
+        "benign/benign (337).png",
+        "benign/benign (337)_mask.png"
+    ],
+    [
+        "normal/normal (52).png",
+        "normal/normal (52)_mask.png"
+    ],
+    [
+        "benign/benign (122).png",
+        "benign/benign (122)_mask.png"
+    ],
+    [
+        "benign/benign (432).png",
+        "benign/benign (432)_mask.png"
+    ],
+    [
+        "normal/normal (3).png",
+        "normal/normal (3)_mask.png"
+    ],
+    [
+        "normal/normal (95).png",
+        "normal/normal (95)_mask.png"
+    ],
+    [
+        "benign/benign (275).png",
+        "benign/benign (275)_mask.png"
+    ],
+    [
+        "malignant/malignant (81).png",
+        "malignant/malignant (81)_mask.png"
+    ],
+    [
+        "malignant/malignant (194).png",
+        "malignant/malignant (194)_mask.png"
+    ],
+    [
+        "normal/normal (12).png",
+        "normal/normal (12)_mask.png"
+    ]
+]
