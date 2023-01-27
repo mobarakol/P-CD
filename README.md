@@ -36,14 +36,14 @@ python train_model.py \
     --tb
 ```
 
-## PCD
+## P-CD
 
 ```shell
 python train_model.py \
     --data bus \
     --batch-size 24 \
     --epochs 150 \
-    --model-path "outputs/bus/cd-tpl/cd_tpl_unet.pth" \
+    --model-path "outputs/bus/pcd_unet.pth" \
     --teacher-path outputs/bus/iid/unet.pth \
     --tb \
     --model-name UNet \
