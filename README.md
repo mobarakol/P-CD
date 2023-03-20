@@ -1,5 +1,6 @@
 # Datasets:
-Publicly available datasets can be found as below: <br>
+The repository contains the code of the paper [Paced-curriculum distillation with prediction and label uncertainty for image segmentation](https://link.springer.com/article/10.1007/s11548-023-02847-9) published in the journal [IJCARS](https://www.springer.com/journal/11548). <br>
+Publicly available datasets can be found as below: <br> 
 1. BUS: https://scholar.cu.edu.eg/Dataset_BUSI.zip <br>
 2. Robotic Surgery: https://endovissub2018-roboticscenesegmentation.grand-challenge.org/Data/ <br>
 
@@ -53,4 +54,16 @@ python train_model.py \
     --gamma 0.8 \
     --kld-loss-temp 4.5 \
     --opt-t 2.51
+```
+
+The paper can be cited as:<br>
+```
+@article{islam2023paced,
+  title={Paced-curriculum distillation with prediction and label uncertainty for image segmentation},
+  author={Islam, Mobarakol and Seenivasan, Lalithkumar and Sharan, SP and Viekash, VK and Gupta, Bhavesh and Glocker, Ben and Ren, Hongliang},
+  journal={International Journal of Computer Assisted Radiology and Surgery},
+  pages={1--9},
+  year={2023},
+  publisher={Springer}
+}
 ```
